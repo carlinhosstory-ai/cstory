@@ -1,0 +1,50 @@
+{
+  "Katowice 2015": {
+    "title": "ESL/One/2015/Katowice",
+    "wikitext_snippet": "{{DISPLAYTITLE:ESL One: Katowice 2015}}\n{{Majors Navbox}}\n{{ESL One Navbox}}<br />\n{{Tabs static\n|name1=Main Event|link1=ESL/One/2015/Katowice\n|name2=LAN Qualifier|link2=ESL/One/2015/Katowice/Qualifier/LAN\n|name3=EU Qualifier #1|link3=ESL/One/2015/Katowice/Qualifier/Europe 1\n|name4=EU Qualifier #2|link4=ESL/One/2015/Katowice/Qualifier/Europe 2\n|name5=Polish Qualifier Finals|link5=ESL/One/2015/Katowice/Qualifier/Poland/Finals\n|name6=Polish Pre-qual. #1|link6=ESL/One/2015/Katowice/Qualifier/Poland/Pre_1\n|name7=Polish Pre-qual. #2|link7=ESL/One/2015/Katowice/Qualifier/Poland/Pre_2\n|name8=CIS Qualifier|link8=ESL/One/2015/Katowice/Qualifier/CIS\n|name9=NA Qualifier|link9=ESL/One/2015/Katowice/Qualifier/North American\n|name10=Last Chance Qualifier|link10=ESL/One/2015/Katowice/Qualifier/Last Chance\n}}\n{{Infobox league\n|name=ESL One: Katowice 2015\n|image=ESL One 2014 allmode.png\n|icon=ESL One 2014 allmode.png\n|organizer=ESL\n|series=ESL One\n|shortname=Katowice 2015\n|type=Offline\n|prizepoolusd=250,000\n|liquipediatier=S-Tier\n|publishertier=Major\n|country=Poland\n|city=Katowice\n|venue=[http://www.spodekkatowice.pl/en/ Spodek]\n|sdate=2015-03-12\n|edate=2015-03-15\n|web=http://www.esl-one.com/csgo/katowice-2015/\n|rulebook=https://gfx.esl.eu/media/eu/csgo/eslone/katowice2015/ESLOne_CSGO_Rulebook.pdf\n|sponsor=[http://www.intel.com/ Intel]<br /> [http://www.asus.com/ ASUS]\n|game=csgo\n|map1=Cache\n|map2=Cobblestone\n|map3=Dust II\n|map4=Inferno\n|map5=Mirage\n|map6=Overpass\n|map7=Nuke\n|team_number=16\n|previous=DreamHack/2014/Winter{{!}}DH Winter 2014\n|next=ESL/One/2015/Cologne{{!}}ESL Cologne 2015\n}}",
+    "winner": "Fnatic",
+    "teams": [
+      "16"
+    ],
+    "date": "2015-03-12",
+    "prize_usd": 250000,
+    "source_page": "ESL/One/2015/Katowice",
+    "source_api": "https://liquipedia.net/counterstrike/api.php?action=parse",
+    "references": {
+      "liquipedia": "https://liquipedia.net/counterstrike/ESL/One/2015/Katowice",
+      "hltv": "https://www.hltv.org/events/1926/esl-one-katowice-2015"
+    }
+  },
+  "Cologne 2015": {
+    "title": "ESL/One/2015/Cologne",
+    "wikitext_snippet": "{{DISPLAYTITLE:ESL One: Cologne 2015}}\n{{Majors Navbox}}\n{{ESL One Navbox}}<br/>\n{{Tabs static\n|name1=Overview |link1=ESL/One/2015/Cologne\n|name2=European Qualifier |link2=ESL/One/2015/Cologne/Qualifier/Europe\n|name3=North American Qualifier |link3=ESL/One/2015/Cologne/Qualifier/North America\n|name4=Asian Qualifier |link4=ESL/One/2015/Cologne/Qualifier/Asia\n}}\n{{Infobox league\n|publishertier=Major\n|liquipediatier=S-Tier\n|valvemajor=true\n|name=ESL One: Cologne 2015\n|series=ESL One\n|abbreviation=ESL One\n|shortname=Cologne 2015\n|image=Esl one logo.png\n|organizer=ESL\n|sponsor=[http://www.intel.com/ Intel]<br/>[http://www.asus.com/ ASUS]<br/>[http://www.paysafecard.com/ paysafecard]<br/>[http://www.nvidia.com/content/global/global.php NVIDIA]<br/>[http://www.hyperxgaming.com/ HyperX]<br/>[http://mobile.thescore.com/#esports theScore eSports]<br/>[https://www.twitch.tv/ Twitch]<br/>[http://gameserver.gamed.de/ gamed!de]<br/>[http://www.needforseat.com/ NEEDforSEAT]\n|rulebook=https://gfx.esl.eu/media/eu/csgo/eslone/cologne2015/ESLOne_CSGO_Rulebook.pdf\n|game=csgo\n|type=Offline\n|country=Germany\n|city=Cologne\n|venue=MMC Studios Cologne<br/><small><small>(Group Stages)</small></small><br/>[http://www.lanxess-arena.de/ Lanxess-Arena]<br/><small><small>(Playoffs)</small></small>\n|sdate=2015-08-20\n|edate=2015-08-23\n|web=https://web.archive.org/web/20160304041656/http://www.esl-one.com/csgo/cologne-2015/\n|prizepoolusd=250,000\n|map1=Train\n|map2=Dust II\n|map3=Cache\n|map4=Inferno\n|map5=Mirage\n|map6=Overpass\n|map7=Cobblestone\n|team_number=16\n|previous=ESL/One/2015/Katowice{{!}}ESL Katowice 20",
+    "winner": "Fnatic",
+    "teams": [
+      "16"
+    ],
+    "date": "2015-08-20",
+    "prize_usd": 250000,
+    "source_page": "ESL/One/2015/Cologne",
+    "source_api": "https://liquipedia.net/counterstrike/api.php?action=parse",
+    "references": {
+      "liquipedia": "https://liquipedia.net/counterstrike/ESL/One/2015/Cologne",
+      "hltv": "https://www.hltv.org/events/1927/esl-one-cologne-2015"
+    }
+  },
+  "Cluj-Napoca 2015": {
+    "title": "DreamHack/2015/Cluj-Napoca",
+    "wikitext_snippet": "{{DISPLAYTITLE:DreamHack Open Cluj-Napoca 2015}}\n{{Majors Navbox}}\n{{DH Navbox}}\n{{Infobox league\n|publishertier=Major\n|liquipediatier=S-Tier\n|valvemajor=true\n|series=DreamHack Open\n|name=DreamHack Open Cluj&#8288;-&#8288;Napoca 2015\n|shortname=DreamHack Cluj-Napoca 2015\n|image=DreamHack Open Cluj-Napoca 2015 lightmode.png\n|imagedark=DreamHack Open Cluj-Napoca 2015 darkmode.png\n|icon=DH-star.png\n|organizer=DreamHack\n|sponsor=[http://www.valvesoftware.com VALVe]\n|game=csgo\n|type=Offline\n|country=Romania\n|city=Cluj-Napoca\n|venue=Polyvalent Hall\n|format=GSL Groups ({{Abbr/Bo1}})<br /> Decider Match ({{Abbr/Bo3}})<br /> Single-Elimination Bracket ({{Abbr/Bo3}})\n|prizepoolusd=250,000\n|sdate=2015-10-28\n|edate=2015-11-01\n|web=http://www.dreamhack.ro/cluj-2015/en/\n|map1=Cache\n|map2=Cobblestone\n|map3=Dust II\n|map4=Inferno\n|map5=Mirage\n|map6=Train\n|map7=Overpass\n|team_number=16\n|previous=ESL/One/2015/Cologne{{!}}ESL Cologne 2015\n|next=MLG/2016/Columbus{{!}}MLG Columbus 2016\n}}\n\n==About==\n===Broadcast Talent===\n{{Tabs dynamic|name1=English Broadcast|name2=Russian Broadcast|This=1}}\n{{Tabs_dynamic/tab|1}}\n{{box|start|padding=1em}}\n{{BroadcasterCard\n|position=Host|lang=English\n|b1=Richard Lewis\n|b2=ReDeYe\n}}\n{{BroadcasterCard\n|position=Interviewer|lang=English\n|b1=Mantrousse\n|b2=SirScoots\n}}\n{{box|break|padding=1em}}\n{{BroadcasterCard\n|position=Analyst|lang=English\n|b1=Thorin\n|b2=Fifflaren\n|b3=natu\n|b4=moses\n}}\n{{box|break}}\n{{BroadcasterCard\n|position=Commentator|lang=English\n|b1=Sadokist\n|b2=HenryG\n|b3=Anders\n|b4=Semmler\n|b5=ddk\n|b6=JZFB\n}}\n{{box|end}}\n{{Tabs dynamic/tab|2}}\n{{Broadca",
+    "winner": "EnVyUs",
+    "teams": [
+      "16"
+    ],
+    "date": "2015-10-28",
+    "prize_usd": 250000,
+    "source_page": "DreamHack/2015/Cluj-Napoca",
+    "source_api": "https://liquipedia.net/counterstrike/api.php?action=parse",
+    "references": {
+      "liquipedia": "https://liquipedia.net/counterstrike/DreamHack/2015/Cluj-Napoca",
+      "hltv": "https://www.hltv.org/events/2027/dreamhack-open-cluj-napoca-2015"
+    }
+  }
+}

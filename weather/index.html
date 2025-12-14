@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Previsão — Ponta Grossa, PR</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="wrap">
+    <header>
+      <div class="header-top">
+        <h1>Previsão do tempo — Ponta Grossa, PR</h1>
+        <div class="controls">
+          <button id="theme-toggle" aria-label="Alternar tema">Tema</button>
+        </div>
+      </div>
+      <p id="updated">Atualizando...</p>
+    </header>
+
+    <section class="current">
+      <div class="card">
+        <div class="current-top">
+          <h2 id="temp">-- °C</h2>
+          <img id="icon" class="icon" src="icons/unknown.svg" alt="ícone do tempo" aria-hidden="true">
+        </div>
+        <p id="weather">--</p>
+        <p id="wind">Vento: -- m/s</p>
+      </div>
+      <div class="card small">
+        <h3>Detalhes</h3>
+        <p>Humidade: <span id="humidity">--</span></p>
+        <p>Sensação: <span id="feels">--</span></p>
+      </div>
+    </section>
+
+    <section class="forecast" id="forecast">
+      <h3>Próximos dias</h3>
+      <div class="cards" id="cards"></div>
+    </section>
+
+    <footer>
+      <small>Dados via Open-Meteo — atualiza automaticamente a cada 2 minutos.</small>
+    </footer>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

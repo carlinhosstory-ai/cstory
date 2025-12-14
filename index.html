@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Counter-Strike Fan Site</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <h1 class="logo">CS: Fan Site</h1>
+        <nav class="nav">
+          <a href="#home">Início</a>
+          <a href="#counter">Contadores</a>
+          <a href="#server">Servidor</a>
+          <a href="#gallery">Gallery</a>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section id="home" class="hero">
+        <div class="container">
+          <h2>Bem-vindo ao site de Counter-Strike</h2>
+          <p>Colete estatísticas, acompanhe placares e teste contadores interativos.</p>
+        </div>
+      </section>
+
+      <section id="counter" class="container section">
+        <h3>Contadores</h3>
+        <div class="counters">
+          <div class="card">
+            <h4>Kills</h4>
+            <div class="value" id="kills">0</div>
+            <div class="controls">
+              <button data-action="dec" data-target="kills">-</button>
+              <button data-action="inc" data-target="kills">+</button>
+              <button data-action="reset" data-target="kills">Reset</button>
+            </div>
+          </div>
+
+          <div class="card">
+            <h4>Deaths</h4>
+            <div class="value" id="deaths">0</div>
+            <div class="controls">
+              <button data-action="dec" data-target="deaths">-</button>
+              <button data-action="inc" data-target="deaths">+</button>
+              <button data-action="reset" data-target="deaths">Reset</button>
+            </div>
+          </div>
+
+          <div class="card">
+            <h4>Score Time A</h4>
+            <div class="value" id="scoreA">0</div>
+            <div class="controls">
+              <button data-action="dec" data-target="scoreA">-</button>
+              <button data-action="inc" data-target="scoreA">+</button>
+            </div>
+          </div>
+
+          <div class="card">
+            <h4>Score Time B</h4>
+            <div class="value" id="scoreB">0</div>
+            <div class="controls">
+              <button data-action="dec" data-target="scoreB">-</button>
+              <button data-action="inc" data-target="scoreB">+</button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="server" class="container section">
+        <h3>Status do Servidor</h3>
+        <div class="server-status" id="server-status">
+          <div>IP: 123.45.67.89:27015</div>
+          <div>Players: <span id="players">0</span>/32</div>
+          <div id="server-uptime">Uptime: --</div>
+          <button id="simulate">Simular atualização</button>
+        </div>
+      </section>
+
+      <section id="gallery" class="container section">
+        <h3>Gallery</h3>
+        <div class="gallery">
+          <img src="https://via.placeholder.com/320x180?text=AWP" alt="AWP">
+          <img src="https://via.placeholder.com/320x180?text=AK-47" alt="AK-47">
+          <img src="https://via.placeholder.com/320x180?text=Smoke" alt="Smoke">
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">© CS Fan Site — criado rapidamente</div>
+    </footer>
+
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>
